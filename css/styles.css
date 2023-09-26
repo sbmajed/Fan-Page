@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, Helvitica, sans-serif;
+    /* we can use names or rgb hex values */
+    color: white;
+    background-color: black;
+  }
+  h1{
+      text-align: center;
+  }
+  h2{
+    text-decoration: underline;
+  }
+  li{
+    font-style: italic;  
+  }
+ a{
+     color: cornflowerblue;
+ }
+ table, th, td {
+    border: 1px solid;
+    padding: 5px;
+  }
+  
+blockquote{
+    font-style: italic;  
+}
+form{
+    background-color: gray;
+    color:white;
+}
